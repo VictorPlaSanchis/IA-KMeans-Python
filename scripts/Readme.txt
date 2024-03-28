@@ -1,0 +1,1 @@
+Scripts usats per lautomatitzacio dels experiments, generalment per us personal a lhora de fer el informe final.
