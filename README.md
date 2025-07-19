@@ -1,7 +1,6 @@
 That project was developed during Algorithms course in UPC-FIB.
 
 ![Página 1](./assets/InformeEquip16_page-0001.jpg)  
-![Página 2](./assets/InformeEquip16_page-0002.jpg)  
 ![Página 3](./assets/InformeEquip16_page-0003.jpg)  
 ![Página 4](./assets/InformeEquip16_page-0004.jpg)  
 ![Página 5](./assets/InformeEquip16_page-0005.jpg)  
