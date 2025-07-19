@@ -1,3 +1,4 @@
+That project was developed during Algorithms course in UPC-FIB.
 
 ![Página 1](./assets/InformeEquip16_page-0001.jpg)  
 ![Página 2](./assets/InformeEquip16_page-0002.jpg)  
